@@ -1,3 +1,6 @@
+# written by Joseph Meng 2018
+# mlx7.xyz
+
 from generate import generate_promotion_code
 import pymysql
 
